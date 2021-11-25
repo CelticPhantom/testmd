@@ -1,7 +1,7 @@
 ﻿# Manual Tests
 ## Test Social Story Animation plays - Laptop
-### Device: HP EliteBook 8570p
 ### Browser: Firefox
+### Device: HP EliteBook 8570p
 ### Pre-Requisite: Initial screen displays
 `Test Execution Steps:`
 |Step|Action|Inputs|Expected Output|Actual Output|Test Result|Test Comments|

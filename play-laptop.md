@@ -1,10 +1,9 @@
 ﻿# Manual Tests
 ## Test Social Story Animation plays - Laptop
-### Device: HP EliteBook 8570p
 ### Browser: Firefox
+### Device: HP EliteBook 8570p
 ### Pre-Requisite: Initial screen displays
 `Test Execution Steps:`
-
 |Step|Action|Inputs|Expected Output|Actual Output|Test Result|Test Comments|
 | --- | --- | --- | --- | --- | --- | --- |
 | 1|Open Firefox browser||Firefox opens|Firefox opens|Pass | |
@@ -19,9 +18,7 @@
 | 3|Press Play button|,*Scene 1 of 9* appears under the title|*Scene 1 of 9* appears under the title|Pass | |
 | | | | Rotating globe animated image appears|Rotating globe animated image appears|Pass | |
 | | | | Text for Scene 1 appears  character by character in a smooth manner|Text for Scene 1 appears  character by character in a smooth manner|Pass|This story is about pandemics and the Coronavirus. A pandemic is when many people in a large area become sick. A pandemic is usually caused by a new virus.|
-| | | | "Audio for scene 1 starts playing
-Audio & text in synch & match"|"Audio for scene 1 starts playing
-Audio & text in synch & match"|Pass|Same as text above|
+| | | | Audio for scene 1 starts playing. Audio & text in synch & match|Audio for scene 1 starts playing. Audio & text in synch & match|Pass|Same as text above|
 | | | | Progress bar starts moving from 1%|Progress bar starts moving from 1%|Pass | |
 | | | | All text is readable and does not overflow its boundaries|All text is readable and does not overflow its boundaries|Pass | |
 | | | | Pause button is the only button showing|Pause button is the only button showing|Pass | |
@@ -76,8 +73,7 @@ Audio & text in synch & match"|Pass|Same as text above|
 | 11|Progress bar reaches 100%||Scene number changes to *Scene 9 of 9*|Scene number changes to *Scene 9 of 9*|Pass|Scene changes automatically.  User does not do anything|
 | | | | Belting covid animated image replaces previous image|Belting covid animated image replaces previous image|Pass | |
 | | | | Text for Scene 9 appears character by character in a smooth manner|Text for Scene 9 appears character by character in a smooth manner|Pass|"It’s good to know that pandemics don’t happen very often. They occur about once every twenty-five or thirty years, or about three times every one hundred years. It’s also helpful to remember that the Coronavirus pandemic will end; probably not by tomorrow morning, but it will end."|
-| | | | "Audio for scene 8 has stopped. Audio for scene 9 starts playing. 
-Audio & text in synch & match"|Audio for scene 8 has stopped. Audio for scene 9 starts playing. Audio & text in synch & match|FAIL|Same as text above|
+| | | | Audio for scene 8 has stopped. Audio for scene 9 starts playing. Audio & text in synch & match|Audio for scene 8 has stopped. Audio for scene 9 starts playing. Audio & text in synch & match|Pass|Same as text above|
 | | | | Progress bar starts moving from 1%|Progress bar starts moving from 1%|Pass | |
 | | | | All text is readable and does not overflow its boundaries|All text is readable and does not overflow its boundaries|Pass | |
 | | | | Pause button is the only button showing|Pause button is the only button showing|Pass | |
@@ -89,9 +85,10 @@ Audio & text in synch & match"|Audio for scene 8 has stopped. Audio for scene 9 
 | | | | All text is readable and does not overflow its boundaries|All text is readable and does not overflow its boundaries|Pass | |
 | | | | Restart and Rewinds buttons are the only buttons showing|Restart and Rewinds buttons are the only buttons showing|Pass | |
 
+
 ## Test Social Story Animation plays - Laptop
+### Browser: Chrome
 ### Device: HP EliteBook 8570p
-### Browser: Firefox
 ### Pre-Requisite: Initial screen displays
 `Test Execution Steps:`
 |Step|Action|Inputs|Expected Output|Actual Output|Test Result|Test Comments|
@@ -108,9 +105,7 @@ Audio & text in synch & match"|Audio for scene 8 has stopped. Audio for scene 9 
 | 3|Press Play button|,*Scene 1 of 9* appears under the title|*Scene 1 of 9* appears under the title|Pass | |
 | | | | Rotating globe animated image appears|Rotating globe animated image appears|Pass | |
 | | | | Text for Scene 1 appears  character by character in a smooth manner|Text for Scene 1 appears  character by character in a smooth manner|Pass|This story is about pandemics and the Coronavirus. A pandemic is when many people in a large area become sick. A pandemic is usually caused by a new virus.|
-| | | | "Audio for scene 1 starts playing
-Audio & text in synch & match"|"Audio for scene 1 starts playing
-Audio & text in synch & match"|Pass|Same as text above|
+| | | | Audio for scene 1 starts playing.  Audio & text in synch & match|Audio for scene 1 starts playing. Audio & text in synch & match|FAIL|Same as text above|
 | | | | Progress bar starts moving from 1%|Progress bar starts moving from 1%|Pass | |
 | | | | All text is readable and does not overflow its boundaries|All text is readable and does not overflow its boundaries|Pass | |
 | | | | Pause button is the only button showing|Pause button is the only button showing|Pass | |
@@ -165,8 +160,7 @@ Audio & text in synch & match"|Pass|Same as text above|
 | | | | Scene number changes to *Scene 9 of 9*|Scene number changes to *Scene 9 of 9*|Pass | |
 | 11|Progress bar reaches 100%||Belting covid animated image replaces previous image|Belting covid animated image replaces previous image|Pass|Scene changes automatically.  User does not do anything|
 | | | | Text for Scene 9 appears character by character in a smooth manner|Text for Scene 9 appears character by character in a smooth manner|Pass | |
-| | | | "Audio for scene 8 has stopped. Audio for scene 9 starts playing. 
-Audio & text in synch & match"|Audio for scene 8 has stopped. Audio for scene 9 starts playing. Audio & text in synch & match|FAIL|"It’s good to know that pandemics don’t happen very often. They occur about once every twenty-five or thirty years, or about three times every one hundred years. It’s also helpful to remember that the Coronavirus pandemic will end; probably not by tomorrow morning, but it will end."|
+| | | | Audio for scene 8 has stopped. Audio for scene 9 starts playing. Audio & text in synch & match|Audio for scene 8 has stopped. Audio for scene 9 starts playing. Audio & text in synch & match|Pass|"It’s good to know that pandemics don’t happen very often. They occur about once every twenty-five or thirty years, or about three times every one hundred years. It’s also helpful to remember that the Coronavirus pandemic will end; probably not by tomorrow morning, but it will end."|
 | | | | Progress bar starts moving from 1%|Progress bar starts moving from 1%|Pass|Same as text above|
 | | | | All text is readable and does not overflow its boundaries|All text is readable and does not overflow its boundaries|Pass | |
 | | | | Pause button is the only button showing|Pause button is the only button showing|Pass | |
@@ -178,3 +172,4 @@ Audio & text in synch & match"|Audio for scene 8 has stopped. Audio for scene 9 
 | | | | All text is readable and does not overflow its boundaries|All text is readable and does not overflow its boundaries|Pass | |
 | | | | Restart and Rewinds buttons are the only buttons showing|Restart and Rewinds buttons are the only buttons showing|Pass | |
 | | | | Restart and Rewinds buttons are the only buttons showing|Restart and Rewinds buttons are the only buttons showing|Pass | |
+ 
