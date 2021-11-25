@@ -3,7 +3,7 @@
 ### Device: HP EliteBook 8570p
 ### Browser: Firefox
 ### Pre-Requisite: Initial screen displays
-Test Execution Steps:`
+`Test Execution Steps:`
 |Step|Action|Inputs|Expected Output|Actual Output|Test Result|Test Comments|
 | 1|Open Firefox browser||Firefox opens|Firefox opens|Pass | |
 | 2|Navigate to Social Story Animation|https://liz-conway.github.io/Portfolio-2-JS-Short-Story-Animation/|Social Story Animation page displays|Social Story Animation page displays|Pass | |
