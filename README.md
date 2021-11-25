@@ -4,7 +4,8 @@
 ### Browser: Firefox
 ### Pre-Requisite: Initial screen displays
 `Test Execution Steps:`
-Step|Action|Inputs|Expected Output|Actual Output|Test Result|Test Comments|
+|Step|Action|Inputs|Expected Output|Actual Output|Test Result|Test Comments|
+| --- | --- | --- | --- | --- | --- | --- |
 | 1|Open Firefox browser||Firefox opens|Firefox opens|Pass | |
 | 2|Navigate to Social Story Animation|https://liz-conway.github.io/Portfolio-2-JS-Short-Story-Animation/|Social Story Animation page displays|Social Story Animation page displays|Pass | |
 | | | | Title displays -  My story about Pandemics and the Coronavirus|Title displays -  My story about Pandemics and the Coronavirus|Pass | |
@@ -101,13 +102,14 @@ Audio & text in synch & match"|Pass|Same as text above|
 | | | | Progress bar remains at 100%|Progress bar remains at 100%|Pass | |
 | | | | All text is readable and does not overflow its boundaries|All text is readable and does not overflow its boundaries|Pass | |
 | | | | Restart and Rewinds buttons are the only buttons showing|Restart and Rewinds buttons are the only buttons showing|Pass | |
-| 
+
 ## Test Social Story Animation plays - Laptop
 ### Device: HP EliteBook 8570p
 ### Browser: Chrome
 ### Pre-Requisite: Initial screen displays
 `Test Execution Steps:`
-Step|Action|Inputs|Expected Output|Actual Output|Test Result|Test Comments|
+|Step|Action|Inputs|Expected Output|Actual Output|Test Result|Test Comments|
+| --- | --- | --- | --- | --- | --- | --- |
 | 1|Open Chrome browser||Chrome opens|Chrome opens|Pass | |
 | 2|Navigate to Social Story Animation|https://liz-conway.github.io/Portfolio-2-JS-Short-Story-Animation/|Social Story Animation page displays|Social Story Animation page displays|Pass | |
 | | | | Title displays -  My story about Pandemics and the Coronavirus|Title displays -  My story about Pandemics and the Coronavirus|Pass | |
@@ -213,4 +215,3 @@ Audio & text in synch & match"|Pass|Same as text above|
 | | | | Progress bar remains at 100%|Progress bar remains at 100%|Pass | |
 | | | | All text is readable and does not overflow its boundaries|All text is readable and does not overflow its boundaries|Pass | |
 | | | | Restart and Rewinds buttons are the only buttons showing|Restart and Rewinds buttons are the only buttons showing|Pass | |
-| 
