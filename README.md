@@ -1,7 +1,7 @@
-﻿Test  ID| | | |Browser|Firefox| | | https://www.softwaretestinghelp.com/test-case-template-examples/|
-# Manual Testing
+﻿# Manual Testing
 ## Test Social Story Animation plays | Laptop
 ### Pre-Requisite: Initial screen displays
+### Browser: Firefox
 `Test Execution Steps:`
 |Step|Action|Inputs|Expected Output|Actual Output|Test Result|Test Comments|
 | --- | --- | --- | --- | --- | --- | --- |
@@ -9,13 +9,13 @@
 |2|Navigate to Social Story Animation|https://liz-conway.github.io/Portfolio-2-JS-Short-Story-Animation/|Social Story Animation page displays|Social Story Animation page displays|Pass | |
 | | | | Title displays -  My story about Pandemics and the Coronavirus|Title displays -  My story about Pandemics and the Coronavirus|Pass | |
 | | | | Animated image displays - boy reading on top of the world - to left of speech bubble|Animated image displays - boy reading on top of the world - to left of speech bubble|Pass | |
-| | | | """PRESS PLAY BUTTON BELOW TO START
+| | | | *PRESS PLAY BUTTON BELOW TO START
 When playing you can press PAUSE
-When paused you can RESTART, REWIND, PLAY or FAST FORWARD
-"" shows in speech bubble"|"""PRESS PLAY BUTTON BELOW TO START
-When playing you can press PAUSE
-When paused you can RESTART, REWIND, PLAY or FAST FORWARD
-"" shows in speech bubble"|Pass | |
+When paused you can RESTART, REWIND, PLAY or FAST FORWARD*
+ shows in speech bubble"|*PRESS PLAY BUTTON BELOW TO START
+ When playing you can press PAUSE
+ When paused you can RESTART, REWIND, PLAY or FAST FORWARD*
+ shows in speech bubble|Pass | |
 | | | | Animated image displays below speech bubble - narrator emoji|Animated image displays below speech bubble - narrator emoji|Pass | |
 | | | | Progress bar appears below Narrator emoji - At 1%|Progress bar appears below Narrator emoji - At 1%|Pass | |
 | | | | Play button appears at bottom of screen|Play button appears at bottom of screen|Pass | |
